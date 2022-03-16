@@ -1,3 +1,5 @@
 Primeira linha digitada
 
 Alteração do primeiro arquivo
+
+Depois de ter feito o commit, primeira alteração no arquivo
